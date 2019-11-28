@@ -35,4 +35,5 @@ Burning ship fractal:
 - 1, 2, 3 on right side your keyboard - switching one fractal to another: 1 - julia, 2 - mandelbrot, 3 - burning ship
 - mouse up-down - zooming
 - left click (working only with julia fractol) - change imaginary numbers value and transform fractol
+<img src="img/Screen Shot 2019-11-28 at 10.21.15.png">
 
