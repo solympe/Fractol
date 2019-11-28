@@ -14,6 +14,7 @@ Useful Links:
 - Mandelbrot fractal: https://en.wikipedia.org/wiki/Mandelbrot_set
 - Julia fractal: https://en.wikipedia.org/wiki/Julia_set
 - Burning ship: http://paulbourke.net/fractals/burnship/
+- School Book: https://cdn.intra.42.fr/pdf/pdf/3877/fract_ol.en.pdf
 - Google (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 Compiling programm with Makefile and using special flags to run it:
